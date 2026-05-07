@@ -2,6 +2,7 @@
 # print("Your name is: "+name)
 # print(name+" lives in Khushab")
 
+
 # username=input("Enter your username: ")
 # print("your username is: "+username)
 
@@ -44,6 +45,26 @@
 # print(read + " is my favourite")
 # print("i like "+read)
 
-username=input("what is your username: ")
-print("my username is: " +username)
-print(username+ " is best username")
+# username=input("what is your username: ")
+# print("my username is: " +username)
+# print(username+ " is best username")
+
+# media=input("which one is your favourite media: ")
+# print("my favourite media is: " +media)
+# print(media+ " is form united states")
+
+# name="arib"
+# city="pindi"
+# print(name+ " lives in "+city)
+
+# story="scray"
+# read="english"
+# print("i like to read " +story+ " story in " +read)
+
+# daughter="fatima"
+# game="polo"
+# print("favourite game of my daughter " +daughter+" is " +game)
+
+name=input("what is your name: ")
+print("my name is "+name)
+print("i live in khushab")
