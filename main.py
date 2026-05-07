@@ -26,7 +26,16 @@
 # name="horror"
 # print(story+" best "+name)
 
-read="novel"
-name="english"
+# read="novel"
+# name="english"
 # print(name+" is best reading "+read)
-print("i am reading " +name +" "+read)
+# print("i am reading " +name +" "+read)
+
+# name=input("what is your name: ")
+# print("your name is: " + name)
+# print(name + " lives in pindi")
+
+# name=input("what is your name: ")
+# print("my name is: " +name)
+# print(name + " lives in lahore")
+
