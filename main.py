@@ -39,3 +39,8 @@
 # print("my name is: " +name)
 # print(name + " lives in lahore")
 
+read=input("which class do you read: ")
+print("i read in class: " +read)
+print(read + " is my favourite")
+print("i like "+read)
+
