@@ -65,6 +65,20 @@
 # game="polo"
 # print("favourite game of my daughter " +daughter+" is " +game)
 
-name=input("what is your name: ")
-print("my name is "+name)
-print("i live in khushab")
+# name=input("what is your name: ")
+# print("my name is "+name)
+# print("i live in khushab")
+#
+# user="alpha"
+# user2=input("what is your username: ")
+# # length
+# print(len(user2))
+
+user1="shakil"
+user1_length=len(user1)
+print(user1_length)
+
+# user2="imran"
+# user2_length=len(user2)
+# print(user2)
+print(len("4555555"))
