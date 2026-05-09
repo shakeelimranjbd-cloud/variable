@@ -101,10 +101,9 @@
 
 # print(len("12345"))
 # n="Shakeel"
-
-my_name="Shakeel"
-print("my name is"+"\n",my_name)
-
+#
+# my_name="Shakeel"
+# print("my name is"+"\n",my_name)
 
 # user_name="Ail"
 # print(user_name)
@@ -140,10 +139,22 @@ print("my name is"+"\n",my_name)
 # USER_DOB="01-02-2015"
 # print(USER_DOB)
 
-my_first_name="Shakeel"
+# my_first_name="Shakeel"
+# my_last_name="imran"
+# # print(my_first_name+" "+my_last_name)
 
-my_last_name="imran"
-print(my_first_name+" "+my_last_name)
+# my_age=48
+# print(my_first_name+" "+my_last_name+" "+my_age)
 
-my_age=48
-print(my_first_name+" "+my_last_name,my_age)
+
+
+food=input("what is your fav food: ")
+# print("my best food name is"+" "+food)
+
+# resturant=input("what is your resturan: ")
+# print("my resturant name is "+" "+resturant)
+
+cartoon=input("what is your fav cartoon: ")
+# print("my logo name is"+" "+cartoon)
+
+print("Your resturant name: "+food+" "+cartoon)
