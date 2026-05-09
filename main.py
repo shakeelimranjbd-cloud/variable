@@ -99,4 +99,51 @@
 # Bus_lenght=len(Bus)
 # print(Bus_lenght)
 
-print(len("12345"))
+# print(len("12345"))
+# n="Shakeel"
+
+my_name="Shakeel"
+print("my name is"+"\n",my_name)
+
+
+# user_name="Ail"
+# print(user_name)
+#
+# customer_name="Arib"
+# print(customer_name)
+#
+# student_name="Shah"
+# print(student_name)
+#
+# # wrong variables
+# alpha="test"
+# print(alpha)
+#
+# sigma="rays"
+# print(sigma)
+#
+# country_name="Pakistan"
+# print(country_name)
+#
+# user_country="china"
+# print(user_country)
+#
+# neme="test"
+# print(neme)
+#
+# gost="ride"
+# print(gost)
+#
+# MY_DOB="01-08-1978"
+# print(MY_DOB)
+#
+# USER_DOB="01-02-2015"
+# print(USER_DOB)
+
+my_first_name="Shakeel"
+
+my_last_name="imran"
+print(my_first_name+" "+my_last_name)
+
+my_age=48
+print(my_first_name+" "+my_last_name,my_age)
