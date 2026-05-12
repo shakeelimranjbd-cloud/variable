@@ -72,12 +72,11 @@
 # name=input("what is your name: ")
 # print("my name is "+name)
 # print("i live in khushab")
-#
-# user="alpha"
+
 # user2=input("what is your username: ")
 # # length
 # print(len(user2))
-#
+
 # user1="shakil"
 # user1_length=len(user1)
 # print(user1_length)
@@ -142,19 +141,22 @@
 # my_first_name="Shakeel"
 # my_last_name="imran"
 # # print(my_first_name+" "+my_last_name)
-
-# my_age=48
+# my_age="48"
 # print(my_first_name+" "+my_last_name+" "+my_age)
 
-
-
 food=input("what is your fav food: ")
-# print("my best food name is"+" "+food)
-
-# resturant=input("what is your resturan: ")
-# print("my resturant name is "+" "+resturant)
-
+resturant=input("what is your resturan: ")
 cartoon=input("what is your fav cartoon: ")
-# print("my logo name is"+" "+cartoon)
+print("my logo name is"+" "+cartoon)
+print("Your resturant name "+resturant+"\nfood name "+food+"\nlogo " +cartoon)
 
-print("Your resturant name: "+food+" "+cartoon)
+# my_name="shakil imran"
+# my_age="48"
+# my_DOB="01-08-1977"
+# print("my name is"+" "+my_name+" and my age is"+" "+my_age+" years and my DOB is "+my_DOB)
+
+# food=input("what is your fav food: ")
+# resturant=input("what is your resturant: ")
+# cartoon=input("what is your favourite cartoon: ")
+# print("my logo name is"+" "+cartoon)
+# print("your resturant name: "+food+" "+cartoon)
