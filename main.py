@@ -144,11 +144,11 @@
 # my_age="48"
 # print(my_first_name+" "+my_last_name+" "+my_age)
 
-food=input("what is your fav food: ")
-resturant=input("what is your resturan: ")
-cartoon=input("what is your fav cartoon: ")
-print("my logo name is"+" "+cartoon)
-print("Your resturant name "+resturant+"\nfood name "+food+"\nlogo " +cartoon)
+# food=input("what is your fav food: ")
+# resturant=input("what is your resturan: ")
+# cartoon=input("what is your fav cartoon: ")
+# print("my logo name is"+" "+cartoon)
+# print("Your resturant name "+resturant+"\nfood name "+food+"\nlogo " +cartoon)
 
 # my_name="shakil imran"
 # my_age="48"
@@ -160,3 +160,32 @@ print("Your resturant name "+resturant+"\nfood name "+food+"\nlogo " +cartoon)
 # cartoon=input("what is your favourite cartoon: ")
 # print("my logo name is"+" "+cartoon)
 # print("your resturant name: "+food+" "+cartoon)
+
+# student="shakil"
+# lenght=len(student)
+# print(lenght)
+#
+# marks="1234567"
+# marks_length=len(marks)
+# print(marks_length)
+#
+# my_first_name="imran"
+# my_first_name_length=len(my_first_name)
+# print(my_first_name_length)
+
+# INDEX
+print("Shakil"[4])
+user="shah"
+print(user[2])
+
+student_name="Muzzamil"
+print(student_name[4])
+
+city_name="lahore"
+print(city_name[4])
+
+school="ROOTS"
+print(school[0])
+
+my_son_name="Arib Ali"
+print(my_son_name[6])
