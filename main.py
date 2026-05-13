@@ -174,18 +174,55 @@
 # print(my_first_name_length)
 
 # INDEX
-print("Shakil"[4])
-user="shah"
-print(user[2])
+# print("Shakil"[4])
+# user="shah"
+# print(user[2])
+#
+# student_name="Muzzamil"
+# print(student_name[4])
+#
+# city_name="lahore"
+# print(city_name[4])
+#
+# school="ROOTS"
+# print(school[0])
+#
+# my_son_name="Arib Ali"
+# print(my_son_name[6])
+#
+# print(my_son_name[-1])
 
-student_name="Muzzamil"
-print(student_name[4])
+# integer
+# +1,+2
+# 1,2
+# -1,-2
+# 0
+# num1="123"
+#
+# num2="456"
+#
+# print(num1+num2)
+# # integer
+# num1=123
+# num2=456
+# print(num1+num2)
+# print(222,456,789)
+# print(111_456_789)
+# print(100_000)
+# print(1_000_000)
+# print(100000)
+# # 1,000,000
+# # 10,00,000
+#
+# # floating
+#
+# print(3.14)
+# print(31.4)
+# # boolean
+# print(True)
+#
+# print(False)
 
-city_name="lahore"
-print(city_name[4])
+name="anabia"
+print(name[-1])
 
-school="ROOTS"
-print(school[0])
-
-my_son_name="Arib Ali"
-print(my_son_name[6])
