@@ -140,7 +140,6 @@
 
 # my_first_name="Shakeel"
 # my_last_name="imran"
-# # print(my_first_name+" "+my_last_name)
 # my_age="48"
 # print(my_first_name+" "+my_last_name+" "+my_age)
 
@@ -218,11 +217,47 @@
 #
 # print(3.14)
 # print(31.4)
-# # boolean
+# boolean
 # print(True)
 #
 # print(False)
 
-name="anabia"
-print(name[-1])
+# name="anabia"
+# print(name[-1])
 
+# num1="123"
+# num2="456"
+# print(num1+num2)
+
+# name="shakil"
+# print(name [4])
+
+# print(3.14)
+
+# print(len("123"))
+#
+# print(type(123))
+#
+# print(type(123.12))
+#
+# print(type("shakil"))
+#
+# print(type(True))
+#
+# print(int("123")+int("456"))
+# # type conversion
+#
+# print(int("alpha")+int("456"))
+
+int("457")
+print(type(float("457")))
+# print(type("457"))
+# float(7)
+# str(123)
+# bool()
+# name_characters=len(input("Enter Your name?"))
+# print("Your name have this many characters: "+str(name_characters))
+
+# print("Your name have this many characters: ",name_characters)
+
+# print(len(input("Enter Your name?")))
