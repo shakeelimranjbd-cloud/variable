@@ -249,8 +249,8 @@
 #
 # print(int("alpha")+int("456"))
 
-int("457")
-print(type(float("457")))
+# int("457")
+# print(type(float("457")))
 # print(type("457"))
 # float(7)
 # str(123)
@@ -261,3 +261,28 @@ print(type(float("457")))
 # print("Your name have this many characters: ",name_characters)
 
 # print(len(input("Enter Your name?")))
+
+# print(type(int("123")))
+# print(type(float(890)))
+# print(type(str("shakil")))
+# print(type(123)
+# print(type(123.12))
+# print(type("shakil"))
+# print(type(False))
+# print(type(bool(True)))
+# print(type(bool(False)))
+# print(type(bool(123)))
+
+# is_student=True
+# print(is_student)
+#
+# my_name=False
+# print(my_name)
+#
+# print(5>2)
+# print(5<2)
+
+name_characters=len(input("which class do you read"))
+# print("Your name have this many characters: "+str(name_characters))
+
+print("Your name have this many characters: ",name_characters)
