@@ -287,8 +287,8 @@
 #
 # print("Your name have this many characters: ",name_characters)
 
-# x = str(3)
-# print(x)
+x = str(3)
+print(x+3)
 
 print(bool(True))
 print(bool(False))
