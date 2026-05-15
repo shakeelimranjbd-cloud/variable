@@ -277,12 +277,19 @@
 # print(is_student)
 #
 # my_name=False
-# print(my_name)
+# print(my_name)x = str(3)
 #
 # print(5>2)
 # print(5<2)
 
-name_characters=len(input("which class do you read"))
+# name_characters=len(input("what is your name"))
 # print("Your name have this many characters: "+str(name_characters))
+#
+# print("Your name have this many characters: ",name_characters)
 
-print("Your name have this many characters: ",name_characters)
+# x = str(3)
+# print(x)
+
+print(bool(True))
+print(bool(False))
+print(type("shakil"))
